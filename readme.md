@@ -1,0 +1,1 @@
+(need to see this later)[https://tesseract-ocr.github.io/tessdoc/Installation.html]
